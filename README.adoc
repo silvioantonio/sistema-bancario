@@ -1,5 +1,4 @@
-https://img.shields.io/travis/silvioantonio/sistema-bancario.svg
-
+image:https://travis-ci.com/silvioantonio/sistema-bancario.svg?branch=master["Build Status", link="https://travis-ci.com/silvioantonio/sistema-bancario"]
 = Projeto de Sistema Bancário para Inclusão de Testes Unitários
 
 Este projeto fornece um conjunto de classes base para que sejam implementados testes unitários.
